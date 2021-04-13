@@ -47,5 +47,11 @@ while fruits[i] != "papaya":
     
     i+=1
     
-    
-    
+#-------------------------------
+
+#functions
+
+def print_fruits():
+  print(fruits)
+
+print_fruits()
